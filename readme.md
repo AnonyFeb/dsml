@@ -37,7 +37,7 @@ pandas==1.3.4
 
 ## Train Model
 
-1. Run `dsml.py` to get the real results of 'Ours-real' and 'Ours' methods.
+1. Run `dsml.py` to train our model and get the results of 'Ours-real' and 'Ours' methods.
 
 
 ## Saved Model
