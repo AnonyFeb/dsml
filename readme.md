@@ -1,3 +1,5 @@
+## The code is the implementation of paper 'Discrete Scale-invariant Metric Learning for Efficient Collaborative Filtering' submitted to ACM SIGKDD 2022.
+
 ## Environment
 
 Python 3.7.9
