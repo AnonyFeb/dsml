@@ -22,8 +22,11 @@ pandas==1.3.4
 | movielens     | 1-m (1,000,209 reviews)    |
 
 (1).  Run `process.py` to filterout users and items with interaction's number >= 20 
+
 (2).  Run `build_data.py` to create a dictionary to each userID and itemID, **you can change flag to generate two dict files**
+
 (3).  Run `transfrom_data.py` to transfrom string ID to int ID
+
 (4).  Run `trans_id.py` make Implicit data
 
 ## Generate Negative Data
