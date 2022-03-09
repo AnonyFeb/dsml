@@ -19,7 +19,7 @@ class angluarLoss:
         self.reg_lambda = tf.constant(reg_lambda, dtype=tf.float32)
         self.gamma = 1
         self.loss_lambda = 1
-        self.max_epoch = 2
+        self.max_epoch = 70
         self.build_graph()
 
     def build_graph(self):
