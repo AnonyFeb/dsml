@@ -10,6 +10,8 @@ numpy==1.19.2
 
 cvxopt
 
+cvxpy
+
 tqdm==4.62.3
 
 pandas==1.3.4
